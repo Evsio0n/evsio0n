@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I'm 19, currently study in Jimei University, Xiamen, China.
+- 🏪 Currently work for and partnership with FamilyMart.
+- 😍 I am very willing to accept the internship invitation.
+- ⭐️ Love Piano,recently I picked up guitar and impressively played well.
+- 💗 Love traveling, too. Single and I'm 🌈LGBTQ.
