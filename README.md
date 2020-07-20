@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🏪 Currently work for and partnership with FamilyMart.
 - 😍 I am very willing to accept the internship invitation.
 - ⭐️ Love Piano,recently I picked up guitar and impressively played well.
-- 💗 Love traveling, too. Single and I'm 🌈LGBTQ.
+- 💗 Love traveling, too. 
+- 🔌 Operating AS139833 with 2 /44 IPv6 Block (in Los Angles and Hong kong Pop).
