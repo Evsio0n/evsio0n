@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 I'm 19, currently study in Jimei University, Xiamen, China.
-- 🏪 Currently work for and partnership with FamilyMart.
+- 🏪 Have worked for and partership with FamilyMart. Currently study and exercise at home/school.
 - 😍 I am very willing to accept the internship invitation.
 - ⭐️ Love Piano,recently I picked up guitar and impressively played well.
 - 💗 Love traveling, too. 
