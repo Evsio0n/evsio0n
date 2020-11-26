@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - ⭐️ Love Piano,recently I picked up guitar and impressively played well.
 - 💗 Love traveling, too. 
 - 🔌 Operating AS139833 with 2 /44 IPv6 Block (with Los Angles and Hong kong Pop).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evsio0n)](https://github.com/anuraghazra/github-readme-stats)
