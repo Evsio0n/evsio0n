@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 - 💗 Love traveling, too. 
 - 🔌 Operating AS139833 with 2 /44 IPv6 Block (with Los Angles and Hong kong Pop).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evsio0n)](https://github.com/anuraghazra/github-readme-stats)
+[![Evsio0n's github stats](https://github-readme-stats.vercel.app/api?username=evsio0n)](https://github.com/anuraghazra/github-readme-stats)
+[![Evsio0n's github langurage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evsio0n&theme=dark
+)](https://github-readme-stats.vercel.app/api/top-langs/?username=evsio0n&theme=dark
+)
