@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm 19, currently study in Jimei University, Xiamen, China.
-- 🏪 Have worked for and partership with FamilyMart. Currently study and work in Xilan Cloud.
+- 🏫 I'm 19, currently study in Xiamen, China.
 - ⭐️ Love Piano,recently I picked up guitar and impressively played well.
 - 💗 Love traveling, too. 
 - 🔌 Operating AS139833 with 2 /44 IPv6 Block (with Los Angles and Hong kong Pop).
