@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm 19, currently study in Xiamen, China.
-- ⭐️ Love Piano,recently I picked up guitar and impressively played well.
-- 💗 Love traveling, too. 
-- 🔌 Operating AS139833 with 2 /44 IPv6 Block (with Los Angles and Hong kong Pop).
-
-![Evsio0n's github stats](https://github-readme-stats.vercel.app/api?username=evsio0n&theme=radical)
-![Evsio0n's github langurage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evsio0n&hide=jasmin,objective-j,html,css&langs_count=8&layout=compact&theme=radical)
+- 🏫 I'm 20, currently in Los Angles, CA, US.
+- Wear masks and save lives.
+- NEXET Co-CEO.
