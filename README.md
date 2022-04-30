@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🏫 I'm 20, currently in Los Angles, CA, US.
 - Wear masks and save lives.
-- NEXET Co-CEO.
+
