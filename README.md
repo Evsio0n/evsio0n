@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm 20, currently in HK🇭🇰
-- Wear masks and save lives.
+
 
